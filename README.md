@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am a physics PhD candidate at the University of Wisconsin-Madison working on building robust data and statistical inference pipelines for the [IceCube Neutrino Observatory](https://icecube.wisc.edu/). I'm passionate about open software and the intersections of big data and particle astrophysics.
+I am a physics PhD candidate at the University of Wisconsin-Madison working on building robust statistical inference pipelines for the [IceCube Neutrino Observatory](https://icecube.wisc.edu/). I'm passionate about open software and the intersections of big data and particle astrophysics.
 
 <!--
 **apizzuto/apizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
