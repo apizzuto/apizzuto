@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am a software engineer at Google primarily working on [Apigee](https://cloud.google.com/apigee), an API Management software provider. Before Google, I complete my PhD in particle astrophysics at the University of Wisconsin-Madison on [IceCube Neutrino Observatory](https://icecube.wisc.edu/). I'm passionate about open software, big data, and statistical inference.
+I am a software engineer and researcher at [Google Quantum AI](https://cloud.google.com/apigee), working on leveraging ML techniques to optimize parameters of Google's quantum computers. Before Google, I complete my PhD in particle astrophysics at the University of Wisconsin-Madison on [IceCube Neutrino Observatory](https://icecube.wisc.edu/). I'm passionate about open software, big data, and statistical inference.
 
 <!--
 **apizzuto/apizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
